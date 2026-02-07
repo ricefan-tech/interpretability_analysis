@@ -1,7 +1,7 @@
 # Diagnostic Analysis of Model Behavior
 
 This repository contains a cleaned version of a past technical interview
-assignment. The goal of the work is not to maximize model performance, but
+assignment. The goal of the work is to maximize model performance and
 to understand model behavior through diagnostic analysis.
 
 The notebook focuses on:
@@ -11,5 +11,4 @@ The notebook focuses on:
 - using complementary evaluations (e.g. bucketed errors, horizon-dependent metrics)
   to reason about model robustness
 
-The included dataset is a small, anonymized sample sufficient to reproduce
-the analysis in the notebook.
+The included dataset is a small sample to reproduce the analysis in the notebook.
